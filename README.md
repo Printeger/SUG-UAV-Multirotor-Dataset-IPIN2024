@@ -7,7 +7,7 @@
 
 ## UAV Setup
 <p align = "center">    
-<img  src="https://github.com/Printeger/SUG-UAV-Multirotor-Dataset-IPIN2024/blob/main/img/set1.png" width="400" /><img  src="https://github.com/Printeger/SUG-UAV-Multirotor-Dataset-IPIN2024/blob/main/img/set2.png" width="400" />
+<img  src="https://github.com/Printeger/SUG-UAV-Multirotor-Dataset-IPIN2024/blob/main/img/set1.png" height="300" /><img  src="https://github.com/Printeger/SUG-UAV-Multirotor-Dataset-IPIN2024/blob/main/img/set2.png" height="300" />
 </p>
 
 
