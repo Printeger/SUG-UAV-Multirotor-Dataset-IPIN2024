@@ -10,8 +10,6 @@
 <img  src="https://github.com/Printeger/SUG-UAV-Multirotor-Dataset-IPIN2024/blob/main/img/set1.png" height="300" /><img  src="https://github.com/Printeger/SUG-UAV-Multirotor-Dataset-IPIN2024/blob/main/img/set2.png" height="300" />
 </p>
 
-
-
 ## Dataset Category Preview
 
 | Category | Sequence number | Sensors | Trajectory shape | Length / Duration | Ground Truth |
@@ -25,6 +23,15 @@
 | LiDAR Sequences | Seq 7 | LiDAR / IMU / UWB/GNSS | Circle | 139.424m / 136.903s | LIO |
 | LiDAR Sequences | Seq 8 | LiDAR / IMU / UWB / GNSS | Free | 340.570m / 452.999s | GLIO |
 | LiDAR Sequences | Seq 9 | LiDATR / IMU | Square | 76.317m / 341.300s | LIO |
+
+## The data collection environment
+The dataset was collected in the the following scenes: 
+<p align = "center">    
+<img  src="https://github.com/Printeger/SUG-UAV-Multirotor-Dataset-IPIN2024/blob/main/img/scene.png" width="800" />
+<figcaption>left: Motion capture room in Polyu, middle: Roundabout in Hong Kong Science Park. right: Banquet hall in Hotel Icon of PolyU</figcaption>
+</p>
+
+
 
 
 
