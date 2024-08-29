@@ -6,9 +6,13 @@
  [Dataset Link](https://zenodo.org/records/13420960)
 
 ## UAV Setup
-![UAV2](https://github.com/Printeger/SUG-UAV-Multirotor-Dataset-IPIN2024/blob/main/img/set1.png#pic_left  =600x600)
+<p align = "left">    
+<img  src="https://github.com/Printeger/SUG-UAV-Multirotor-Dataset-IPIN2024/blob/main/img/set1.png" width="400" />
+</p>
+<p align = "right">    
+<img  src="https://github.com/Printeger/SUG-UAV-Multirotor-Dataset-IPIN2024/blob/main/img/set2.png" width="400" />
+</p>
 
-![UAV1](https://github.com/Printeger/SUG-UAV-Multirotor-Dataset-IPIN2024/blob/main/img/set2.png#pic_right  =600x600)
 
 ## Dataset Category Preview
 
