@@ -1,0 +1,31 @@
+Xsens MTi-100:
+# derived from data manual: https://mtidocs.movella.com/output-specifications$gyroscopes
+  Gyro Initial bias error: 0.2°/s
+  Gyro In-run bias stability: 10°/h
+  Gyro Noise density: 0.01°/s/√Hz
+  Gyro g-sensitivity: 0.003°/s/g
+  Accel Initial bias error: 0.05m/s²
+  Accel In-run bias stability: 15µg
+  Accel Noise density: 60µg/√Hz
+
+Realsense T265 inside IMU BMI055:
+# derived from data manual: https://www.mouser.com/datasheet/2/783/BST-BMI055-DS000-08-786482.pdf?srsltid=AfmBOorIyuuxPuT3AD4mGYbejhkTd2B3wOTOHDWAQp7SFjQ4E0DB-7gm
+  Gyro Noise: 0.1°/s
+  Gyro Random Walk: 0.84°/√h
+  Gyro Zero-rate offset: ±1°/s
+  Gyro g-sensitivity: 0.1°/s/g
+  Gyro Sensitivity/temp: ±0.03/K
+  Accel Noise Density: 150μg/√Hz
+  Accel Zero-g offset: ±70mg
+  Accel Zero-g offset tempco: ±1mg/K
+
+Livox MID360 inside IMU ICM-40609:
+# derived from data manual: https://invensense.tdk.com/wp-content/uploads/2022/07/DS-000330-ICM-40609-D-v1.2.pdf
+  Gyro Noise: 4.5mdps/√Hz
+  Gyro Offset Stability TC: ±10mdps/ºC
+  Gyro Sensitivity Error: ±0.5%
+  Gyro Sensitivity/temp: ±0.045%/ºC
+  Accel Noise: 100μg/√Hz
+  Accel Offset Stability TC: ±0.15mg/ºC
+  Accel Sensitivity Error: ±0.5%
+  Accel Sensitivity/temp: ±0.007%/ºC
