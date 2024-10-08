@@ -20,18 +20,91 @@ The dataset was collected in the the following scenes:
 </p>
 
 ## Dataset Category Preview
-
-| Category | Sequence number | Sensors | Trajectory shape | Length / Duration | Ground Truth |
-|----------|-----------------|---------|------------------|-------------------|--------------|
-| Dynamic Sequences | Seq 1 | Camera / IMU / Motor encoder | Circle | 30.432m / 27.050s | Motion capture |
-| Dynamic Sequences | Seq 2 | Camera / IMU / Motor encoder | Vertical Oval | 18.568m / 43.351s | Motion capture |
-| Dynamic Sequences | Seq 3 | Camera / IMU / Motor encoder | Saddle | 60.606m / 59.366s | Motion capture |
-| Dynamic Sequences | Seq 4 | Camera / IMU / Motor encoder | Infinite | 57.479m / 110.784s | Motion capture |
-| Dynamic Sequences | Seq 5 | Camera / IMU / Motor encoder | Square | 45.070m / 62.000s | Motion capture |
-| Dynamic Sequences | Seq 6 | Camera / IMU / Motor encoder | Free | 71.004m / 241.960s | Motion capture |
-| LiDAR Sequences | Seq 7 | LiDAR / IMU / UWB/GNSS | Circle | 139.424m / 136.903s | LIO |
-| LiDAR Sequences | Seq 8 | LiDAR / IMU / UWB / GNSS | Free | 340.570m / 452.999s | GLIO |
-| LiDAR Sequences | Seq 9 | LiDATR / IMU | Square | 76.317m / 341.300s | LIO |
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Sequence number</th>
+            <th>Sensors</th>
+            <th>Trajectory shape</th>
+            <th>Length / Duration</th>
+            <th>Ground Truth</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Dynamic Sequences</td>
+            <td><a href="https://zenodo.org/record/13420960/files/Seq1.zip">Seq 1</a></td>
+            <td>Camera / IMU / Motor encoder</td>
+            <td>Circle</td>
+            <td>30.432m / 27.050s</td>
+            <td>Motion capture</td>
+        </tr>
+        <tr>
+            <td>Dynamic Sequences</td>
+            <td><a href="https://zenodo.org/record/13420960/files/Seq2.zip">Seq 2</a></td>
+            <td>Camera / IMU / Motor encoder</td>
+            <td>Vertical Oval</td>
+            <td>18.568m / 43.351s</td>
+            <td>Motion capture</td>
+        </tr>
+        <tr>
+            <td>Dynamic Sequences</td>
+            <td><a href="https://zenodo.org/record/13420960/files/Seq3.zip">Seq 3</a></td>
+            <td>Camera / IMU / Motor encoder</td>
+            <td>Saddle</td>
+            <td>60.606m / 59.366s</td>
+            <td>Motion capture</td>
+        </tr>
+        <tr>
+            <td>Dynamic Sequences</td>
+            <td><a href="https://zenodo.org/record/13420960/files/Seq4.zip">Seq 4</a></td>
+            <td>Camera / IMU / Motor encoder</td>
+            <td>Infinite</td>
+            <td>57.479m / 110.784s</td>
+            <td>Motion capture</td>
+        </tr>
+        <tr>
+            <td>Dynamic Sequences</td>
+            <td><a href="https://zenodo.org/record/13420960/files/Seq5.zip">Seq 5</a></td>
+            <td>Camera / IMU / Motor encoder</td>
+            <td>Square</td>
+            <td>45.070m / 62.000s</td>
+            <td>Motion capture</td>
+        </tr>
+        <tr>
+            <td>Dynamic Sequences</td>
+            <td><a href="https://zenodo.org/record/13420960/files/Seq6.zip">Seq 6</a></td>
+            <td>Camera / IMU / Motor encoder</td>
+            <td>Free</td>
+            <td>71.004m / 241.960s</td>
+            <td>Motion capture</td>
+        </tr>
+        <tr>
+            <td>LiDAR Sequences</td>
+            <td><a href="https://zenodo.org/record/13420960/files/Seq7.zip">Seq 7</a></td>
+            <td>LiDAR / IMU / UWB/GNSS</td>
+            <td>Circle</td>
+            <td>139.424m / 136.903s</td>
+            <td>LIO</td>
+        </tr>
+        <tr>
+            <td>LiDAR Sequences</td>
+            <td><a href="https://zenodo.org/record/13420960/files/Seq8.zip">Seq 8</a></td>
+            <td>LiDAR / IMU / UWB / GNSS</td>
+            <td>Free</td>
+            <td>340.570m / 452.999s</td>
+            <td>GLIO</td>
+        </tr>
+        <tr>
+            <td>LiDAR Sequences</td>
+            <td><a href="https://zenodo.org/record/13420960/files/Seq9.zip">Seq 9</a></td>      <td>LiDAR / IMU</td>
+            <td>Square</td>
+            <td>76.317m / 341.300s</td>
+            <td>LIO</td>
+        </tr>
+    </tbody>
+</table>
 
 
 
