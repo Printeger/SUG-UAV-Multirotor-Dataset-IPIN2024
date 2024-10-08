@@ -34,7 +34,7 @@ The dataset was collected in the the following scenes:
     <tbody>
         <tr>
             <td>Dynamic Sequences</td>
-            <td><a href="https://zenodo.org/record/13420960/files/Seq1.zip">Seq 1</a></td>
+            <td><a href="https://zenodo.org/records/13420960/files/Dynamic_Seq_1_Circle.zip?download=1">Seq 1</a></td>
             <td>Camera / IMU / Motor encoder</td>
             <td>Circle</td>
             <td>30.432m / 27.050s</td>
@@ -42,7 +42,7 @@ The dataset was collected in the the following scenes:
         </tr>
         <tr>
             <td>Dynamic Sequences</td>
-            <td><a href="https://zenodo.org/record/13420960/files/Seq2.zip">Seq 2</a></td>
+            <td><a href="https://zenodo.org/records/13420960/files/Dynamic_Seq_2_Vertical_oral.zip?download=1">Seq 2</a></td>
             <td>Camera / IMU / Motor encoder</td>
             <td>Vertical Oval</td>
             <td>18.568m / 43.351s</td>
@@ -50,7 +50,7 @@ The dataset was collected in the the following scenes:
         </tr>
         <tr>
             <td>Dynamic Sequences</td>
-            <td><a href="https://zenodo.org/record/13420960/files/Seq3.zip">Seq 3</a></td>
+            <td><a href="https://zenodo.org/records/13420960/files/Dynamic_Seq_3_Saddle.zip?download=1">Seq 3</a></td>
             <td>Camera / IMU / Motor encoder</td>
             <td>Saddle</td>
             <td>60.606m / 59.366s</td>
@@ -58,7 +58,7 @@ The dataset was collected in the the following scenes:
         </tr>
         <tr>
             <td>Dynamic Sequences</td>
-            <td><a href="https://zenodo.org/record/13420960/files/Seq4.zip">Seq 4</a></td>
+            <td><a href="https://zenodo.org/records/13420960/files/Dynamic_Seq_4_Infinite.zip?download=1">Seq 4</a></td>
             <td>Camera / IMU / Motor encoder</td>
             <td>Infinite</td>
             <td>57.479m / 110.784s</td>
@@ -66,7 +66,7 @@ The dataset was collected in the the following scenes:
         </tr>
         <tr>
             <td>Dynamic Sequences</td>
-            <td><a href="https://zenodo.org/record/13420960/files/Seq5.zip">Seq 5</a></td>
+            <td><a href="https://zenodo.org/records/13420960/files/Dynamic_Seq_5_Square.zip?download=1">Seq 5</a></td>
             <td>Camera / IMU / Motor encoder</td>
             <td>Square</td>
             <td>45.070m / 62.000s</td>
@@ -74,7 +74,7 @@ The dataset was collected in the the following scenes:
         </tr>
         <tr>
             <td>Dynamic Sequences</td>
-            <td><a href="https://zenodo.org/record/13420960/files/Seq6.zip">Seq 6</a></td>
+            <td><a href="https://zenodo.org/records/13420960/files/Dynamic_Seq_6_Free.zip?download=1">Seq 6</a></td>
             <td>Camera / IMU / Motor encoder</td>
             <td>Free</td>
             <td>71.004m / 241.960s</td>
@@ -82,7 +82,7 @@ The dataset was collected in the the following scenes:
         </tr>
         <tr>
             <td>LiDAR Sequences</td>
-            <td><a href="https://zenodo.org/record/13420960/files/Seq7.zip">Seq 7</a></td>
+            <td><a href="https://zenodo.org/records/13420960/files/LiDAR_Seq_1_Hall.zip?download=1">Seq 7</a></td>
             <td>LiDAR / IMU / UWB/GNSS</td>
             <td>Circle</td>
             <td>139.424m / 136.903s</td>
@@ -90,7 +90,7 @@ The dataset was collected in the the following scenes:
         </tr>
         <tr>
             <td>LiDAR Sequences</td>
-            <td><a href="https://zenodo.org/record/13420960/files/Seq8.zip">Seq 8</a></td>
+            <td><a href="https://zenodo.org/records/13420960/files/LiDAR_Seq_2_Urban.zip?download=1">Seq 8</a></td>
             <td>LiDAR / IMU / UWB / GNSS</td>
             <td>Free</td>
             <td>340.570m / 452.999s</td>
@@ -98,7 +98,7 @@ The dataset was collected in the the following scenes:
         </tr>
         <tr>
             <td>LiDAR Sequences</td>
-            <td><a href="https://zenodo.org/record/13420960/files/Seq9.zip">Seq 9</a></td>      <td>LiDAR / IMU</td>
+            <td><a href="https://zenodo.org/records/13420960/files/LiDAR_Seq_3_Roundabout.zip?download=1">Seq 9</a></td>      <td>LiDAR / IMU</td>
             <td>Square</td>
             <td>76.317m / 341.300s</td>
             <td>LIO</td>
