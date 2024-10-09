@@ -1,0 +1,9 @@
+Xsens MTi-100:
+# derived from data manual: https://mtidocs.movella.com/output-specifications$gyroscopes
+  Gyro Initial bias error: 0.2°/s
+  Gyro In-run bias stability: 10°/h
+  Gyro Noise density: 0.01°/s/√Hz
+  Gyro g-sensitivity: 0.003°/s/g
+  Accel Initial bias error: 0.05m/s²
+  Accel In-run bias stability: 15µg
+  Accel Noise density: 60µg/√Hz

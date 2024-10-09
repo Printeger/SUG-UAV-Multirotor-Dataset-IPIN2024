@@ -1,0 +1,10 @@
+Livox MID360 inside IMU ICM-40609:
+# derived from data manual: https://invensense.tdk.com/wp-content/uploads/2022/07/DS-000330-ICM-40609-D-v1.2.pdf
+  Gyro Noise: 4.5mdps/√Hz
+  Gyro Offset Stability TC: ±10mdps/ºC
+  Gyro Sensitivity Error: ±0.5%
+  Gyro Sensitivity/temp: ±0.045%/ºC
+  Accel Noise: 100μg/√Hz
+  Accel Offset Stability TC: ±0.15mg/ºC
+  Accel Sensitivity Error: ±0.5%
+  Accel Sensitivity/temp: ±0.007%/ºC

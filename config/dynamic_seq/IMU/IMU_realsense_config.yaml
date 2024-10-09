@@ -1,0 +1,42 @@
+Realsense T265 inside IMU BMI055:
+# derived from data manual: https://www.mouser.com/datasheet/2/783/BST-BMI055-DS000-08-786482.pdf?srsltid=AfmBOorIyuuxPuT3AD4mGYbejhkTd2B3wOTOHDWAQp7SFjQ4E0DB-7gm
+  Gyro Noise: 0.1°/s
+  Gyro Random Walk: 0.84°/√h
+  Gyro Zero-rate offset: ±1°/s
+  Gyro g-sensitivity: 0.1°/s/g
+  Gyro Sensitivity/temp: ±0.03/K
+  Accel Noise Density: 150μg/√Hz
+  Accel Zero-g offset: ±70mg
+  Accel Zero-g offset tempco: ±1mg/K
+
+Intrinsic:
+  type: IMU
+  name: T265
+  Gyr:
+  unit: " rad/s"
+  avg-axis:
+  gyr_n: 1.8195485089888275e-03
+  gyr_w: 1.5665923211850097e-05
+  x-axis:
+  gyr_n: 1.2197813192224667e-03
+  gyr_w: 1.2361734732161878e-05
+  y-axis:
+  gyr_n: 2.7377946905084568e-03
+  gyr_w: 2.2298202137781803e-05
+  z-axis:
+  gyr_n: 1.5010695172355589e-03
+  gyr_w: 1.2337832765606616e-05
+  Acc:
+  unit: " m/s^2"
+  avg-axis:
+  acc_n: 1.8354799806985539e-02
+  acc_w: 3.9297319668563742e-04
+  x-axis:
+  acc_n: 1.5444653521686185e-02
+  acc_w: 3.4906687077261990e-04
+  y-axis:
+  acc_n: 1.8868922077229528e-02
+  acc_w: 4.3792740485274330e-04
+  z-axis:
+  acc_n: 2.0750823822040902e-02
+  acc_w: 3.9192531443154894e-04
